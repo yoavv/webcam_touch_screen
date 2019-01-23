@@ -1,6 +1,8 @@
 # Webcam Touch Screen
 My bachelor's degree final project - converting any screen to a touch screen using a webcam
 
+<img src="images/webcam_touch_screen_small.jpg" width=300/>
+
 # The general idea
 The goal of this project is to transform a normal screen into touch screen and replace the mouse and keyboard. This is done by using single cheap Webcam that records the monitor and detects hand motion. That motion is than transformed into an action like pressing the left mouse button or opening a keyboard.
 
